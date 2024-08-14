@@ -1,0 +1,8 @@
+for admin login
+email			username	password
+admin@gmail.com		admin		admin1
+
+for user login
+email			username	password
+user@gmail.com		user		user1
+sudipsapko@gmail.com	sudip sapkota	1010
